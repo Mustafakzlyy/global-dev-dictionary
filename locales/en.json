@@ -1,0 +1,17 @@
+[
+  {
+    "term": "Spaghetti Code",
+    "definition": "Code that is complex, tangled, and hard to follow, just like a bowl of spaghetti.",
+    "contributor": "Mustafakzlyy"
+  },
+  {
+    "term": "Rubber Duck Debugging",
+    "definition": "Explaining your code line-by-line to a rubber duck (or any inanimate object) to find bugs.",
+    "contributor": "Mustafakzlyy"
+  },
+  {
+    "term": "Refactoring",
+    "definition": "Restructuring existing computer code without changing its external behavior to improve readability or performance.",
+    "contributor": "Mustafakzlyy"
+  }
+]

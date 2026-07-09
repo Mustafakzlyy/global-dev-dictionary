@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Dev Dictionary</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>🌍 Global Dev Dictionary</h1>
+        <p>A community-driven multilingual dictionary for developers, by developers.</p>
+        
+        <div class="language-selector">
+            <label for="lang-select">Choose Language: </label>
+            <select id="lang-select">
+            </select>
+        </div>
+    </header>
+
+    <main>
+        <div class="search-box">
+            <input type="text" id="search-input" placeholder="Search for a term...">
+        </div>
+
+        <div class="dictionary-grid" id="dictionary-container">
+        </div>
+    </main>
+
+    <footer>
+        <p>Want to contribute? Add a new term, translate to your language, or fix bugs on <a href="#" target="_blank" id="github-link">GitHub</a>!</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
